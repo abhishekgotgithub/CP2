@@ -1,4 +1,4 @@
-# CP2
+# Capstone Project 2
 
 This project is about classifying images. If an image is fed into a machine, it will try to guess what the image is about. For example if the machine has been trained to classify among cats, dogs and birds and when an image is fed to the machine it will correctly say what the image was fed to it.
 
